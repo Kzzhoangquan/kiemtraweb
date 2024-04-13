@@ -27,12 +27,16 @@ header {
 .left {
     position: absolute;
     right: 10px;
-    font-size: 10px;
+    font-size: 8px;
     display: flex;
-    font-size: 10px;
+    font-size: 15px;
     margin-right: 20px;
     margin-block-start: -1,5em;
     top:10px;
+
+}
+#language{
+    margin-right: 12px;
 
 }
 
