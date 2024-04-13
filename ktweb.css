@@ -56,6 +56,7 @@ section {
 .speed-test-results {
     margin-bottom: 50px;
     position: relative;
+    display: block;
 }
 
 .speed-test-results p.speed {
@@ -65,14 +66,20 @@ section {
     position: relative;
     width: 90%;
     margin-top: 0px;
+
 }
 
 .speed span {
     font-size: 60px;
     font-weight: 600;
     position: absolute;
-    right: 280px;
-    top: 0;
+    right: 250px;
+    top: 35px;
+    margin-left: 20px;
+    
+}
+.fa-rotate-right{
+    right:250px;
 }
 
 .speed-test-results i {
@@ -101,7 +108,7 @@ section {
 }
 
 .contact {
-    margin-top: 40px;
+    margin-top: 80px;
 }
 
 .contact i {
